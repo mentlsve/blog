@@ -10,6 +10,6 @@ export const AUTHOR_DESCRIPTION = 'Passionate about technology, focusing on Web 
 export const SOCIAL_LINKS = {
   github: 'https://github.com/Secd0g/zen',
   twitter: 'https://twitter.com/yourusername',
-  linkedin: 'https://linkedin.com/in/yourusername',
+  linkedin: 'https://linkedin.com/in/sven-mentl',
   email: 'mailto:your@email.com',
 };
