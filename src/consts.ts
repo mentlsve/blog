@@ -4,12 +4,12 @@
 export const SITE_TITLE = 'Sven Mentl';
 export const SITE_DESCRIPTION = 'A clean, modern blog theme with excellent readability and beautiful typography.';
 export const AUTHOR_NAME = 'Sven Mentl';
-export const AUTHOR_TITLE = 'Solution Architect';
-export const AUTHOR_DESCRIPTION = 'Passionate about technology, focusing on Web development and security research. Sharing technical insights, study notes, and project experiences here.';
+export const AUTHOR_TITLE = 'Emerging Technology Architect, Munich Metropolitan Region';
+export const AUTHOR_DESCRIPTION = 'Engineer at heart — 15+ years finding where emerging technology can make something genuinely better and seeing it through.';
 
 export const SOCIAL_LINKS = {
-  github: 'https://github.com/Secd0g/zen',
-  twitter: 'https://twitter.com/yourusername',
+  github: 'https://github.com/mentlsve',
   linkedin: 'https://linkedin.com/in/sven-mentl',
-  email: 'mailto:your@email.com',
+  email: 'mailto:sven.mentl@proton.me',
 };
+
